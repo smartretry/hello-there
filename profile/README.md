@@ -1,13 +1,18 @@
 <p>
-  <a herf="https://www.smartretry.com" title="SmartRetry">
+  <a href="https://www.smartretry.com" title="SmartRetry">
     <img src="/assets/logo.svg" alt="SmartRetry - SmartRetry can turn your declined transactions into revenue!">
   </a>
 </p>
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@smartretry-darkblue.svg)](https://www.linkedin.com/company/smartretry)
+[![Website](https://img.shields.io/badge/Website-smartretry.com-black.svg)](https://www.smartretry.com/)
+[![LinkedIn](htttps://img.shields.io/badge/LinkedIn-@smartretry-darkblue.svg)](https://www.linkedin.com/company/smartretry)
+[![X](https://img.shields.io/badge/X-@smartretry-black.svg)](https://x.com/smartretry)
 [![YouTube](https://img.shields.io/badge/YouTube-@smartretry-red.svg)](https://www.youtube.com/@SmartRetry)
+[![Facebook](https://img.shields.io/badge/Facebook-@smartretry-1877F2.svg)](https://www.facebook.com/smartretry)
+[![Instagram](https://img.shields.io/badge/Instagram-@smartretry-E4405F.svg)](https://www.instagram.com/smartretry/)
+[![Email](https://img.shields.io/badge/Email-contact@smartretry.com-green.svg)](mailto:contact@smartretry.com)
 
 
 # **SmartRetry can turn your declined transactions into revenue!**
@@ -70,4 +75,6 @@ Runs automatically in the background, with no manual retries or operational over
 Understand how much revenue is being lost to failed payments.
 SmartRetry can analyze your transactions and help you recover it.
 
-<img width="240" height="40" alt="Frame 29" src="https://github.com/user-attachments/assets/5f7f73c4-baf1-4a0c-8562-6c19d5e9f772" />
+<a href="https://www.smartretry.com/contact" title="Contact SmartRetry">
+  <img width="240" height="40" alt="Contact us" src="https://github.com/user-attachments/assets/5f7f73c4-baf1-4a0c-8562-6c19d5e9f772" />
+</a>
